@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "ggg@gg.rr",
+      "password": "$2a$10$tWxMro763WOunBwCXPB8t.M9NWS4Bqp29E9yYsSMLkcCMpfvdv7se",
+      "id": 1
+    },
+    {
+      "email": "ggg@gg.rr2",
+      "password": "$2a$10$ekRNuB/R5NdtS20./3Pnwe0l7URK8z/6CJ9kasJ5YcDtJwCH2tBKy",
+      "id": 2
+    },
+    {
+      "email": "ggg@gg.rr23",
+      "password": "$2a$10$aY/.WqpEmt4HK6hofhf7EuamEibGLXKEJZOayqcuCN0hPyOgb/Moi",
+      "id": 3
+    },
+    {
+      "email": "ggg@gg.rr123",
+      "password": "$2a$10$.FXcHBjO3EQ6vQhAWj3SvOLbVp.u.UJLd95xA3qhyHyNmhIll.rY2",
+      "id": 4
+    },
+    {
+      "email": "ggg@gg.rr123123123",
+      "password": "$2a$10$bk2JkuYd2r6ZF0BWaUUFp.61QZqeP.Y5C6CsMZEWjTneSq2FLHWtK",
+      "id": 5
+    },
+    {
+      "email": "gg2g@gg.rr",
+      "password": "$2a$10$83f.ShcdMNfc7h1cZv7A8uCcVe14VcPZZ5827Z9UjLVZeCH6WVZta",
+      "id": 6
+    },
+    {
+      "email": "ggg@gg.rr1",
+      "password": "$2a$10$N0ns93tMdkEWFSA9MTdxAuw473faGbbY.32W/15UZd8z.KFEssvOu",
+      "id": 7
+    }
+  ]
+}
